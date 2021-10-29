@@ -1,8 +1,2 @@
-# <center>Hi 👋, I'm Xiashura</center>
-## 💻 Backend Developer, 🐧 Adept Linux
-
-* 🌱 I’m currently learning **Golang & Rust**
-* 💬 Ask me about **Linux**
-* 📫 How to reach me [telegram](https://t.me/xiashura)
-* 💾 My [dotfiles](https://github.com/xiashura/dotfiles)
+<center><img width=100% highth=100% src=https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif></center>
 
